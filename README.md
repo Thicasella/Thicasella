@@ -26,12 +26,13 @@
  
 </div>
  <div align="center">
+ </div>
+
+
+
+
+</div>
 
 ![snake gif](https://github.com/Thicasella/Thicasella/blob/output/github-contribution-grid-snake.svg)
   
-</div>
 
-
-
-
-</div>
