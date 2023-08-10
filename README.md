@@ -24,12 +24,6 @@
   <a href="https://www.linkedin.com/in/thiago-casella/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  
-</div>
- <div align="center">
-<div align="center">
 
-  ![snake gif](https://github.com/Thicasella/Thicasella/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
   
 
